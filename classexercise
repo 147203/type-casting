@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    double myNum = 10.123;
+    int myNewNum=int(myNum);
+    
+    cout<<myNewNum;
+   
+    return 0;
+}
